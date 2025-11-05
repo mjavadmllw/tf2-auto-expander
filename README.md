@@ -20,7 +20,7 @@ A smart Node.js script that automatically uses **Backpack Expander** items in Te
 
 ## 📋 Requirements
 
-- [Node.js](https://nodejs.org/)  (version 16 or higher)
+- [Node.js](https://nodejs.org/)  (version 18 or higher)
 - Add Team-Fortress 2 to your steam library ([TF2 Store Page](https://store.steampowered.com/app/440/Team_Fortress_2/))
 - At least one Backpack Expander item in your TF2 inventory (you can buy from this [Link](https://store.steampowered.com/buyitem/440/5050))
 
@@ -59,8 +59,6 @@ A smart Node.js script that automatically uses **Backpack Expander** items in Te
 
 
 ##  Troubleshooting
-
-### مشکلات متداول:
 
 **The script can’t find the item:**
 - Ensure the item exists in your Steam inventory.
