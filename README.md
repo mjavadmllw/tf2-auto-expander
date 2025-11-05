@@ -8,32 +8,31 @@
 
 </div>
 
-یک اسکریپت Node.js هوشمند که به صورت خودکار آیتم‌های **Backpack Expander** را در بازی Team Fortress 2 استفاده می‌کند تا فضای اینونتوری شما را افزایش دهد.
+A smart Node.js script that automatically uses **Backpack Expander** items in Team Fortress 2 to expand your inventory capacity.
 
-## ✨ ویژگی‌ها
+## ✨ Features
 
-- 🔄 **استفاده خودکار** از Backpack Expander
-- 🎯 **تشخیص هوشمند** آیتم‌ها در اینونتوری
-- ⚡ **اجرای سریع** و بهینه
-- 🛡️ **مدیریت خطا** و بازیابی خودکار
-- 📊 **لاگ‌ کامل** از فرآیندها
+- 🔄 Automatic use of Backpack Expander items
+- 🎯 Smart detection of items in your inventory
+- ⚡ Fast and optimized execution
+- 🛡️ Error handling and auto recovery
+- 📊 Detailed logging of all processes
 
-## 📋 پیش‌نیازها
+## 📋 Requirements
 
-- [Node.js](https://nodejs.org/) (نسخه 16 یا بالاتر)
-- آیتم Backpack Expander در اینونتوری
-- 
-## 🚀 نحوه راه اندازی
+- [Node.js](https://nodejs.org/)  (version 16 or higher)
+- At least one Backpack Expander item in your TF2 inventory
+
+##  Setup Guide
 
 <details>
-  <summary>🔽 کلیک کن تا توضیحات باز شود</summary>
+  <summary>🔽 Windows</summary>
 
-  این متن بعد از کلیک نمایش داده می‌شود.  
-  می‌توانی اینجا هر چیزی بنویسی، از جمله:
-  - متن
-  - کد
-  - تصاویر
-  - لینک‌ها
+  1. asd
+  - adfwef
+  -wfwv
+
+  2. wevfwervwrv
 
   ```bash
   npm install
@@ -41,43 +40,37 @@
   ```
 </details>
 
-## 🎮 نحوه استفاده
 
-1. مطمئن شوید بازی TF2 بسته است
-2. اسکریپت را اجرا کنید
-3. منتظر بمانید تا اسکریپت عملیات را کامل کند
-4. بازی را اجرا کنید و از فضای اینونتوری شده لذت ببرید!
-
-
-## 🐛 عیب‌یابی
+##  Troubleshooting
 
 ### مشکلات متداول:
 
-**اسکریپت آیتم را پیدا نمی‌کند:**
-- مطمئن شوید آیتم در اینونتوری موجود است
-- موقعیت آیتم را بررسی کنید
+**The script can’t find the item:**
+- Ensure the item exists in your Steam inventory.
+- Check the item’s position and visibility.
 
-**اتصال به Steam برقرار نمی‌شود:**
-- مطمئن شوید Steam در حال اجرا است
-- بررسی کنید که هیچ فایروالی مانع اتصال نشود
+**Can’t connect to Steam:**
+- Check your firewall or proxy settings.
 
 
 ## ⚠️ disclaimer
 
-این اسکریپت فقط برای اهداف آموزشی و شخصی توسعه یافته است. استفاده از آن بر عهده کاربر است و توسعه‌دهنده مسئولیتی در قبال هرگونه مشکل احتمالی ندارد.
+This script is developed for educational and personal use only.
+Use it at your own risk — the developer is not responsible for any potential issues or account restrictions.
 
-## 📄 لایسنس
 
-این پروژه تحت لایسنس [MIT](LICENSE) منتشر شده است.
+## 📄 License
+This project is licensed under the [MIT](LICENSE)
 
-## 👨‍💻 توسعه‌دهنده
 
-ساخته شده با ❤️ توسط Mjavad_mllw
+## 👨‍💻 Developer
+
+Built with ❤️ by Mjavad_mllw
 
 ---
 
 <div align="center">
 
-اگر این پروژه برای شما مفید بود، ⭐ ستاره بدید!
+⭐ If you found this project useful, don’t forget to star it!
 
 </div>
