@@ -21,23 +21,39 @@ A smart Node.js script that automatically uses **Backpack Expander** items in Te
 ## 📋 Requirements
 
 - [Node.js](https://nodejs.org/)  (version 16 or higher)
-- At least one Backpack Expander item in your TF2 inventory
+- At least one Backpack Expander item in your TF2 inventory (you can buy from this [Link](https://store.steampowered.com/buyitem/440/5050))
 
 ##  Setup Guide
 
 <details>
   <summary>🔽 Windows</summary>
 
-  1. asd
-  - adfwef
-  -wfwv
+  1. install last version of node.js LTS in your pc
 
-  2. wevfwervwrv
+  2. download the project in zip and unzip it
 
-  ```bash
-  npm install
-  node app.js
-  ```
+  3. run setup.bat file
+
+  4. open config.json file and enter your account details
+
+  5. run app.bat
+
+</details>
+
+<details>
+  <summary>🔽 Linux (ubuntu)</summary>
+
+  1. run apt update and install last version of node.js LTS 
+
+  2. clone the project
+
+  3. navigate to project directory
+
+  4. run npm install
+
+  5. run nano config.json and enter your account details
+
+  6. run `node app.js`
 </details>
 
 
