@@ -38,6 +38,8 @@
   ```bash
   npm install
   node app.js
+  ```
+</details>
 
 ## 🎮 نحوه استفاده
 
